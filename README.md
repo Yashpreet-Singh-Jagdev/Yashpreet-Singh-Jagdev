@@ -66,8 +66,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Yashpreet-Singh-Jagdev/Ren_Mail-PassGeneration">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=Ren_Mail-PassGeneration&theme=algolia&cache_seconds=1800" width="400" />
+      <a href="https://github.com/Yashpreet-Singh-Jagdev/Ren-Mail-PassGeneration">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=Ren-Mail-PassGeneration&theme=algolia&cache_seconds=1800" width="400" />
       </a>
     </td>
     <td>
