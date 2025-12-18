@@ -19,7 +19,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,expressjs,mongodb,react,tailwind,bootstrap,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,expressjs,mongodb,react,tailwind,bootstrap,git,github,vscode,postman,docker" />
 </p>
 
 ---
@@ -27,11 +27,11 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashpreet-Singh-Jagdev&show_icons=true&theme=algolia&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashpreet-Singh-Jagdev&theme=algolia&cache_seconds=1800" height="150" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashpreet-Singh-Jagdev&theme=algolia&cache_seconds=1800" height="150" /> -->
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashpreet-Singh-Jagdev&theme=algolia" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashpreet-Singh-Jagdev&theme=algolia" />
 </p>
 
 ---
