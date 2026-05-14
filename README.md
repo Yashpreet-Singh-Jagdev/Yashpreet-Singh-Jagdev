@@ -43,36 +43,36 @@
   <tr>
     <td>
       <a href="https://github.com/Yashpreet-Singh-Jagdev/Yatri_Sakha">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=Yatri_Sakha&theme=algolia&cache_seconds=1800" width="400" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=Yatri_Sakha&theme=algolia&cache_seconds=1800" width="400" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Yashpreet-Singh-Jagdev/Perspectify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=Perspectify&theme=algolia&cache_seconds=1800" width="400" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=Perspectify&theme=algolia&cache_seconds=1800" width="400" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Yashpreet-Singh-Jagdev/Med-Life">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=Med-Life&theme=algolia&cache_seconds=1800" width="400" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=Med-Life&theme=algolia&cache_seconds=1800" width="400" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Yashpreet-Singh-Jagdev/Yelp_Camp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=Yelp_Camp&theme=algolia&cache_seconds=1800" width="400" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=Yelp_Camp&theme=algolia&cache_seconds=1800" width="400" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Yashpreet-Singh-Jagdev/Ren-Mail-PassGeneration">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=Ren-Mail-PassGeneration&theme=algolia&cache_seconds=1800" width="400" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=Ren-Mail-PassGeneration&theme=algolia&cache_seconds=1800" width="400" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Yashpreet-Singh-Jagdev/PropertEase">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=PropertEase&theme=algolia&cache_seconds=1800" width="400" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Yashpreet-Singh-Jagdev&repo=PropertEase&theme=algolia&cache_seconds=1800" width="400" />
       </a>
     </td>
   </tr>
