@@ -26,8 +26,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashpreet-Singh-Jagdev&show_icons=true&theme=algolia&cache_seconds=1800" height="150" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashpreet-Singh-Jagdev&theme=algolia&cache_seconds=1800" height="150" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashpreet-Singh-Jagdev&theme=algolia&cache_seconds=1800" height="150" />
 </p>
 
 <p align="center">
